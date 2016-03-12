@@ -10,3 +10,7 @@ Created on 2016年3月12日
 
 
 print ("wf[xx]")
+
+print "wf"
+for i in range(2,8,2):
+    print i
